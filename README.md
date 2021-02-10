@@ -59,7 +59,7 @@ Please, if you encounter any of the anti-analysis tricks which you have seen in 
 - NtSetInformationThread (HideThreadFromDebugger)
 - NtQueryObject (ObjectTypeInformation)
 - NtQueryObject (ObjectAllTypesInformation)
-- CloseHanlde (NtClose) Invalide Handle
+- CloseHandle (NtClose) Invalide Handle
 - SetHandleInformation (Protected Handle)
 - UnhandledExceptionFilter
 - OutputDebugString (GetLastError())
